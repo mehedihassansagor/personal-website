@@ -91,10 +91,8 @@ h3{
     color: whitesmoke;
     border-radius: 10px;
 }
-.buttonon:hover{
-    background-color: lightgoldenrodyellow;
-    color: black;
-}
+
+
 .social-media{
     text-align: center;
     font-size: 3rem;
@@ -119,10 +117,6 @@ p{
 }
 .colori{
     color:indigo;
-}
-.education-part:hover{
-
-    background-color: lavenderblush;
 }
 .top-view{
     background-image: url("images/d-bg\ \(3\).png");
